@@ -1,5 +1,4 @@
-  {
-      "Resena":[
+[
       {"ReviewId": 1, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Lucía", "ReviewText": "Una obra maestra absoluta. La prosa es hipnótica y me atrapó desde la primera página. Lo recomiendo sin dudarlo.", "CreatedOn": "2026-05-10T10:15:00Z"},
       {"ReviewId": 2, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Andrés", "ReviewText": "Me costó mucho seguir tantos personajes con el mismo nombre. Lo encontré confuso y pesado por momentos.", "CreatedOn": "2026-05-11T12:00:00Z"},
       {"ReviewId": 3, "BookId": 2, "BookTitle": "1984", "ReviewerName": "Marta", "ReviewText": "Inquietante y absolutamente brillante. Sigue siendo terriblemente actual. Una lectura imprescindible.", "CreatedOn": "2026-05-12T09:30:00Z"},
@@ -15,6 +14,5 @@
       {"ReviewId": 13, "BookId": 11, "BookTitle": "El principito", "ReviewerName": "Javier", "ReviewText": "Hermoso y lleno de sabiduría. Un clásico que se puede releer a cualquier edad y siempre aporta algo nuevo.", "CreatedOn": "2026-05-18T09:15:00Z"},
       {"ReviewId": 14, "BookId": 17, "BookTitle": "It", "ReviewerName": "visitante", "ReviewText": "Demasiado largo y con partes que sobran. Da miedo, sí, pero se me hizo eterno y aburrido.", "CreatedOn": "2026-05-18T21:30:00Z"},
       {"ReviewId": 15, "BookId": 18, "BookTitle": "La chica del tren", "ReviewerName": "Cristina", "ReviewText": "Adictivo. Lo terminé en dos días, no podía soltarlo. Los giros me sorprendieron mucho.", "CreatedOn": "2026-05-19T13:00:00Z"}
-      ]
-  }  
+] 
 
