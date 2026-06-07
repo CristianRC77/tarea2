@@ -1,4 +1,3 @@
-[
   {
       "Resena":[
       {"ReviewId": 1, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Lucía", "ReviewText": "Una obra maestra absoluta. La prosa es hipnótica y me atrapó desde la primera página. Lo recomiendo sin dudarlo.", "CreatedOn": "2026-05-10T10:15:00Z"},
@@ -18,4 +17,4 @@
       {"ReviewId": 15, "BookId": 18, "BookTitle": "La chica del tren", "ReviewerName": "Cristina", "ReviewText": "Adictivo. Lo terminé en dos días, no podía soltarlo. Los giros me sorprendieron mucho.", "CreatedOn": "2026-05-19T13:00:00Z"}
       ]
   }  
-]
+
