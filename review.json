@@ -1,17 +1,21 @@
 [
-  {"ReviewId": 1, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Lucía", "ReviewText": "Una obra maestra absoluta. La prosa es hipnótica y me atrapó desde la primera página. Lo recomiendo sin dudarlo.", "CreatedOn": "2026-05-10T10:15:00Z"},
-  {"ReviewId": 2, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Andrés", "ReviewText": "Me costó mucho seguir tantos personajes con el mismo nombre. Lo encontré confuso y pesado por momentos.", "CreatedOn": "2026-05-11T12:00:00Z"},
-  {"ReviewId": 3, "BookId": 2, "BookTitle": "1984", "ReviewerName": "Marta", "ReviewText": "Inquietante y absolutamente brillante. Sigue siendo terriblemente actual. Una lectura imprescindible.", "CreatedOn": "2026-05-12T09:30:00Z"},
-  {"ReviewId": 4, "BookId": 2, "BookTitle": "1984", "ReviewerName": "visitante", "ReviewText": "Buen libro aunque el ritmo en la parte central se hace algo lento. Aun así merece la pena.", "CreatedOn": "2026-05-12T18:45:00Z"},
-  {"ReviewId": 5, "BookId": 3, "BookTitle": "El nombre del viento", "ReviewerName": "Diego", "ReviewText": "Espectacular. El sistema de magia y la narración me parecieron geniales. Esperando con ansias la continuación.", "CreatedOn": "2026-05-13T20:10:00Z"},
-  {"ReviewId": 6, "BookId": 4, "BookTitle": "Sapiens", "ReviewerName": "Paula", "ReviewText": "Fascinante de principio a fin. Cambió por completo mi forma de ver la historia de la humanidad.", "CreatedOn": "2026-05-14T08:00:00Z"},
-  {"ReviewId": 7, "BookId": 4, "BookTitle": "Sapiens", "ReviewerName": "Ramón", "ReviewText": "Interesante pero a veces hace afirmaciones demasiado tajantes sin suficiente respaldo. Aun así disfrutable.", "CreatedOn": "2026-05-14T15:25:00Z"},
-  {"ReviewId": 8, "BookId": 6, "BookTitle": "El código Da Vinci", "ReviewerName": "Sofía", "ReviewText": "Entretenido para pasar el rato, pero la escritura es bastante floja y previsible. No me convenció demasiado.", "CreatedOn": "2026-05-15T11:40:00Z"},
-  {"ReviewId": 9, "BookId": 6, "BookTitle": "El código Da Vinci", "ReviewerName": "visitante", "ReviewText": "Una decepción. Mucho ruido para una trama bastante simplona. No lo recomendaría.", "CreatedOn": "2026-05-15T19:05:00Z"},
-  {"ReviewId": 10, "BookId": 7, "BookTitle": "La sombra del viento", "ReviewerName": "Elena", "ReviewText": "Maravilloso. Una carta de amor a los libros y a Barcelona. Me emocionó hasta las lágrimas.", "CreatedOn": "2026-05-16T07:50:00Z"},
-  {"ReviewId": 11, "BookId": 8, "BookTitle": "Dune", "ReviewerName": "Carlos", "ReviewText": "Una construcción de mundo impresionante, pero el inicio es denso y cuesta entrar. Al final compensa.", "CreatedOn": "2026-05-16T14:20:00Z"},
-  {"ReviewId": 12, "BookId": 9, "BookTitle": "El Hobbit", "ReviewerName": "Nuria", "ReviewText": "Encantador y divertido. Perfecto para iniciarse en la fantasía. Lo disfruté muchísimo.", "CreatedOn": "2026-05-17T10:00:00Z"},
-  {"ReviewId": 13, "BookId": 11, "BookTitle": "El principito", "ReviewerName": "Javier", "ReviewText": "Hermoso y lleno de sabiduría. Un clásico que se puede releer a cualquier edad y siempre aporta algo nuevo.", "CreatedOn": "2026-05-18T09:15:00Z"},
-  {"ReviewId": 14, "BookId": 17, "BookTitle": "It", "ReviewerName": "visitante", "ReviewText": "Demasiado largo y con partes que sobran. Da miedo, sí, pero se me hizo eterno y aburrido.", "CreatedOn": "2026-05-18T21:30:00Z"},
-  {"ReviewId": 15, "BookId": 18, "BookTitle": "La chica del tren", "ReviewerName": "Cristina", "ReviewText": "Adictivo. Lo terminé en dos días, no podía soltarlo. Los giros me sorprendieron mucho.", "CreatedOn": "2026-05-19T13:00:00Z"}
+  {
+      "Resena":[
+      {"ReviewId": 1, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Lucía", "ReviewText": "Una obra maestra absoluta. La prosa es hipnótica y me atrapó desde la primera página. Lo recomiendo sin dudarlo.", "CreatedOn": "2026-05-10T10:15:00Z"},
+      {"ReviewId": 2, "BookId": 1, "BookTitle": "Cien años de soledad", "ReviewerName": "Andrés", "ReviewText": "Me costó mucho seguir tantos personajes con el mismo nombre. Lo encontré confuso y pesado por momentos.", "CreatedOn": "2026-05-11T12:00:00Z"},
+      {"ReviewId": 3, "BookId": 2, "BookTitle": "1984", "ReviewerName": "Marta", "ReviewText": "Inquietante y absolutamente brillante. Sigue siendo terriblemente actual. Una lectura imprescindible.", "CreatedOn": "2026-05-12T09:30:00Z"},
+      {"ReviewId": 4, "BookId": 2, "BookTitle": "1984", "ReviewerName": "visitante", "ReviewText": "Buen libro aunque el ritmo en la parte central se hace algo lento. Aun así merece la pena.", "CreatedOn": "2026-05-12T18:45:00Z"},
+      {"ReviewId": 5, "BookId": 3, "BookTitle": "El nombre del viento", "ReviewerName": "Diego", "ReviewText": "Espectacular. El sistema de magia y la narración me parecieron geniales. Esperando con ansias la continuación.", "CreatedOn": "2026-05-13T20:10:00Z"},
+      {"ReviewId": 6, "BookId": 4, "BookTitle": "Sapiens", "ReviewerName": "Paula", "ReviewText": "Fascinante de principio a fin. Cambió por completo mi forma de ver la historia de la humanidad.", "CreatedOn": "2026-05-14T08:00:00Z"},
+      {"ReviewId": 7, "BookId": 4, "BookTitle": "Sapiens", "ReviewerName": "Ramón", "ReviewText": "Interesante pero a veces hace afirmaciones demasiado tajantes sin suficiente respaldo. Aun así disfrutable.", "CreatedOn": "2026-05-14T15:25:00Z"},
+      {"ReviewId": 8, "BookId": 6, "BookTitle": "El código Da Vinci", "ReviewerName": "Sofía", "ReviewText": "Entretenido para pasar el rato, pero la escritura es bastante floja y previsible. No me convenció demasiado.", "CreatedOn": "2026-05-15T11:40:00Z"},
+      {"ReviewId": 9, "BookId": 6, "BookTitle": "El código Da Vinci", "ReviewerName": "visitante", "ReviewText": "Una decepción. Mucho ruido para una trama bastante simplona. No lo recomendaría.", "CreatedOn": "2026-05-15T19:05:00Z"},
+      {"ReviewId": 10, "BookId": 7, "BookTitle": "La sombra del viento", "ReviewerName": "Elena", "ReviewText": "Maravilloso. Una carta de amor a los libros y a Barcelona. Me emocionó hasta las lágrimas.", "CreatedOn": "2026-05-16T07:50:00Z"},
+      {"ReviewId": 11, "BookId": 8, "BookTitle": "Dune", "ReviewerName": "Carlos", "ReviewText": "Una construcción de mundo impresionante, pero el inicio es denso y cuesta entrar. Al final compensa.", "CreatedOn": "2026-05-16T14:20:00Z"},
+      {"ReviewId": 12, "BookId": 9, "BookTitle": "El Hobbit", "ReviewerName": "Nuria", "ReviewText": "Encantador y divertido. Perfecto para iniciarse en la fantasía. Lo disfruté muchísimo.", "CreatedOn": "2026-05-17T10:00:00Z"},
+      {"ReviewId": 13, "BookId": 11, "BookTitle": "El principito", "ReviewerName": "Javier", "ReviewText": "Hermoso y lleno de sabiduría. Un clásico que se puede releer a cualquier edad y siempre aporta algo nuevo.", "CreatedOn": "2026-05-18T09:15:00Z"},
+      {"ReviewId": 14, "BookId": 17, "BookTitle": "It", "ReviewerName": "visitante", "ReviewText": "Demasiado largo y con partes que sobran. Da miedo, sí, pero se me hizo eterno y aburrido.", "CreatedOn": "2026-05-18T21:30:00Z"},
+      {"ReviewId": 15, "BookId": 18, "BookTitle": "La chica del tren", "ReviewerName": "Cristina", "ReviewText": "Adictivo. Lo terminé en dos días, no podía soltarlo. Los giros me sorprendieron mucho.", "CreatedOn": "2026-05-19T13:00:00Z"}
+      ]
+  }  
 ]
